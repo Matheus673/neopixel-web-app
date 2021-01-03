@@ -1,0 +1,12 @@
+{
+  "name": "lights-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "johnny-five": "^2.0.0",
+    "node-pixel": "^0.11.0"
+  }
+}
